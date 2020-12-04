@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "847490356648",
+    "project_id": "jumeaudroid",
+    "storage_bucket": "jumeaudroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847490356648:android:dbd4127f62a1ef6b67b99d",
+        "android_client_info": {
+          "package_name": "com.kenzensoft.Grammaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847490356648-1sgd8jt6ocvm183f6tqdvmd1iio6jm86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW0_EXsUAFYblT6kjG6e9Wb76jXm5lBjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847490356648-1sgd8jt6ocvm183f6tqdvmd1iio6jm86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847490356648-rf6j3reo98mc50m7qdo5iog7lc6lv0ac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kenzensoft.Grammaire",
+                "app_store_id": "1418967598"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847490356648:android:37d68175c0415f2c67b99d",
+        "android_client_info": {
+          "package_name": "com.test.droid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847490356648-1sgd8jt6ocvm183f6tqdvmd1iio6jm86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW0_EXsUAFYblT6kjG6e9Wb76jXm5lBjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847490356648-1sgd8jt6ocvm183f6tqdvmd1iio6jm86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847490356648-rf6j3reo98mc50m7qdo5iog7lc6lv0ac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kenzensoft.Grammaire",
+                "app_store_id": "1418967598"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
